@@ -1,0 +1,4 @@
+# x64 专业版
+magnet:?xt=urn:btih:8E49569FDE852E4F3CCB3D13EFB296B6B02D82A6&dn=cn_windows_10_business_editions_version_2004_x64_dvd_c59a4f91.iso&xl=5527756800
+# x64 消费版
+magnet:?xt=urn:btih:75C53FC59E677E355327E73E3296F8848F90A538&dn=cn_windows_10_consumer_editions_version_2004_x64_dvd_0c2eefdb.iso&xl=5634521088
